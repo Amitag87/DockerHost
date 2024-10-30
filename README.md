@@ -1,4 +1,4 @@
-# DockerHost
+#Creating a docker image
 Hosted a flask application through docker . 
 
 Radhe Radhe
